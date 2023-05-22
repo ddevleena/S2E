@@ -22,6 +22,6 @@ python test_model_LL.py --tsne True --cm True
 > Additionally, with the above commands, Recall@k=1,2,3 are printed to the terminal. 
 
 ## Pre-Trained Models 
-Best Pre-Trained model (out of 5 random seeds) are provided in ``test_C4`` and ``test_LL`` folders.  
+Pre-Trained model provided in ``test_C4`` and ``test_LL`` folders.  
 
 > You can run model evaluation on the existing models in these folders.
