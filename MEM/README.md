@@ -10,7 +10,7 @@ python trainer_LL.py --filename
 ```
 > Hyperparameters used in the paper are set at the bottom of each respective trainer file.
 > Model architectures are povided in ``models.py``
-> Datasets are provided in ``/datasets``; ``data_LL.py`` and ``data_C4.py`` show dataloading for training each model
+> Datasets are provided in ``datasets.zip``; ``data_LL.py`` and ``data_C4.py`` show dataloading for training each model
 
 ## Evaluation
 To evaluate the joint embedding models, use the commands below:
