@@ -25,7 +25,7 @@ tensorboard --logdir ./results
 > Select the appropriate domain (Lunar Lander or Connect 4). Then select ``1. Load pretrained model ``. Then select either ``2. Render some self-play games`` or ``3. Play against Muzero``.
 
 ## Pre-Trained Models
-Existing Pre-Trained RL agent checkpoints are provided in the ``results/`` folder. 
+Existing Pre-Trained RL agent checkpoints are provided in ``results.zip``
 We provide a model checkpoint for each of the study conditions used to evaluate efficacy of our joint embedding models in informing reward shaping. 
 The performances of these models can be visualized using tensorboard or the other evaluation options above.
 
