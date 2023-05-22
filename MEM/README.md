@@ -18,7 +18,7 @@ To evaluate the joint embedding models, use the commands below:
 python test_model_C4.py --tsne True --cm True
 python test_model_LL.py --tsne True --cm True
 ```
-> The ``--tsne`` and ``cm`` parameters allow for generation of TNSE plots on the test set and Confusion Matrix analysis for Recall@1. 
+> The ``--tsne`` and ``--cm`` parameters allow for generation of TNSE plots on the test set and Confusion Matrix analysis for Recall@1. 
 > Additionally, with the above commands, Recall@k=1,2,3 are printed to the terminal. 
 
 ## Pre-Trained Models 
